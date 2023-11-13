@@ -1,4 +1,3 @@
-D
 import tkinter as t
 f = t.Tk()
 f.geometry('400x500')
@@ -11,5 +10,3 @@ print("hello new features added")
 # new features added - form
 print("hello new features added")
 
-# mistake
-#new commit
